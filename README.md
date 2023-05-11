@@ -18,6 +18,10 @@ The code was built to execute on Ubuntu 16.04 LTS operating system. It can also 
 - All the servers i.e., S1, S2, D1, and D2 should be configured to support TCP Cubic (also known as
 TCP BIC in ns-3) and DCTCP.
 
+<p>
+    <img src="dumbbell.png" width="450" alt="Topology">
+</p>
+
 The following points have been implemented in the code.
 
 1. Each link in the network has a maximum bandwidth of 1 Gbps.
